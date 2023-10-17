@@ -1,4 +1,1 @@
-student Name: mosafa            student ID: 1334student age: 20            student GPA: 3.5            
-student Name: omar            student ID: 1student age: 22            student GPA: 3.3            
-student Name: ail            student ID: 3student age: 22            student GPA: 4            
-student Name: mahmoud            student ID: 22student age: 23            student GPA: 3.3            
+           
